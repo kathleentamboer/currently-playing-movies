@@ -2,13 +2,13 @@
 ==========================================
 
 
-project three
-october 9, 2014
-kathleen tamboer
+- project three
+- october 9, 2014
+- kathleen tamboer
 
 
-sketchapp
-invision
+- sketchapp
+- invision
 
 
 http://invis.io/G91HWTUKS
